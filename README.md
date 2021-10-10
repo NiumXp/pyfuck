@@ -8,7 +8,7 @@ The implementation don't use
   - No `'` and `"`;
   - No numbers, except `0`.
 
-> I don't why, but the code doesn't work correctly...
+> I don't know why, but the code doesn't work correctly...
 
 ### How to use
 ```py
